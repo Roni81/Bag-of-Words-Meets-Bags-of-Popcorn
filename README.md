@@ -20,7 +20,8 @@ Train and predict positive/negative <br/>
 
 ## Code
 ### import Library
-''' python <pre><code>
+<pre><code>
+''' python   
 import pandas as pd
 import numpy as np
 import warnings
@@ -30,4 +31,5 @@ import seaborn as sns
 
 warnings.filterwarnings('ignore')
 SEED = 33
-</code></pre>'''
+'''
+</code></pre>
